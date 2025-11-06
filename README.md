@@ -1,5 +1,6 @@
 # Number-guessing-game
-Simple number guessing game made in python\n
+Simple number guessing game made in python
+
 Created by Aapox
 
 # To-Do
