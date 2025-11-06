@@ -4,4 +4,4 @@ Simple number guessing game made in python
 Created by Aapox
 
 # To-Do
-- Add more tries
+- Add more guessing tries
